@@ -1,16 +1,17 @@
-# React + Vite
+📌 Project Description
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+A simple Movie Search Application built using ReactJS. The app uses the OMDB API to search movies, view movie details, and filter results. This project is created for college assignment / practice purpose.
+🚀 Features
+Search movies by title
+Display movie list with posters
+View detailed movie information
+Pagination for search results
+Filter movies by type (movie / series / episode)
+Error handling for no results
+Responsive UI using Tailwind CSS
+🛠️ Technologies Used
+ReactJS
+React Router DO
+Tailwind CSS
+JavaScript
+OMDB API
